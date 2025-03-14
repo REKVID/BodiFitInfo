@@ -1,4 +1,4 @@
-``
+
 ЗАПУСК:
 ```Bash
 python bodyfit.py C:/Projects/IEEEP2/models/IEEEP2_01/model.ply ../results/new_measurements.json --vis --render --web_vis --web_vis_mode both --sex female --log_level INFO
