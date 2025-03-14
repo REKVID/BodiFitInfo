@@ -9,6 +9,10 @@ cd C:\Projects\BodyFit\src; python bodyfit.py C:/Projects/IEEEP2/models/IEEEP2_0
 ```
 
 
+```
+тебе надо исправлять толь m114 и запускать заного c команды cd C:\Projects\BodyFit\src; python bodyfit.py C:/Projects/IEEEP2/models/IEEEP2_01/model.ply ../results/new_measurements.json --vis --render --web_vis --web_vis_mode both --sex female --log_level INFO пока проект не запустится и не завершится полностью без единой ошибки 
+```
+
 ![telegram-cloud-document-2-5201799513987116490](https://github.com/user-attachments/assets/68d6679f-a4db-4e76-b278-77a3b733cfc9)
 
 ```
